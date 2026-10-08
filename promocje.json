@@ -1,0 +1,22 @@
+[
+  {
+    "tytul": "Pralka Bosch WAN28262PL",
+    "opis": "Promocja tygodnia – 8 kg, cicha praca",
+    "cena": "1 699 zł",
+    "cena_stara": "1 899 zł",
+    "zdjecie": "images/magazyn/washer1.jpg",
+    "zdjecie_duze": "images/magazyn/washer1.jpg",
+    "producent": "Bosch",
+    "aktualizacja": "2026-10-08"
+  },
+  {
+    "tytul": "Lodówka Samsung RB38C605CB1",
+    "opis": "No Frost 390 l – super cena",
+    "cena": "2 999 zł",
+    "cena_stara": "3 299 zł",
+    "zdjecie": "images/magazyn/fridge1.jpg",
+    "zdjecie_duze": "images/magazyn/fridge1.jpg",
+    "producent": "Samsung",
+    "aktualizacja": "2026-10-08"
+  }
+]

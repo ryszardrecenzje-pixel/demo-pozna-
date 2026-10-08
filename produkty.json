@@ -1,0 +1,59 @@
+{
+  "lodowki.html": [
+    {
+      "tytul": "Samsung RB38C605CB1",
+      "opis": "Lodówka No Frost, pojemność 390 l, klasa energetyczna C. Idealna do nowoczesnej kuchni.",
+      "cena": "3 299 zł",
+      "zdjecia": [
+        "images/magazyn/fridge1.jpg"
+      ]
+    },
+    {
+      "tytul": "Bosch KGN39VLEQ",
+      "opis": "Lodówka wolnostojąca z zamrażarką, VitaFresh, No Frost.",
+      "cena": "2 899 zł",
+      "zdjecia": [
+        "images/magazyn/fridge2.jpg"
+      ]
+    }
+  ],
+  "pralki.html": [
+    {
+      "tytul": "Bosch WAN28262PL",
+      "opis": "Pralka 8 kg, 1400 obr./min, EcoSilence Drive.",
+      "cena": "1 899 zł",
+      "zdjecia": [
+        "images/magazyn/washer1.jpg"
+      ]
+    },
+    {
+      "tytul": "Samsung WW90T554DAE",
+      "opis": "Pralka 9 kg z AI Control i EcoBubble.",
+      "cena": "2 199 zł",
+      "zdjecia": [
+        "images/magazyn/washer2.jpg"
+      ]
+    }
+  ],
+  "zmywarki.html": [
+    {
+      "tytul": "Bosch SMS6ZCI00E",
+      "opis": "Zmywarka 60 cm, 14 kompletów, SilencePlus.",
+      "cena": "2 499 zł",
+      "zdjecia": [
+        "images/magazyn/dishwasher1.jpg"
+      ]
+    }
+  ],
+  "piekarniki.html": [
+    {
+      "tytul": "Electrolux EOC6H77X",
+      "opis": "Piekarnik do zabudowy z funkcją pary i AirFry.",
+      "cena": "2 799 zł",
+      "zdjecia": [
+        "images/magazyn/oven1.jpg"
+      ]
+    }
+  ],
+  "male_agd.html": []
+}

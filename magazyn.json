@@ -1,0 +1,23 @@
+[
+  {
+    "tytul": "Samsung RB38C605CB1",
+    "status": "Dostępny od ręki",
+    "cena": "3 299 zł",
+    "kategoria": "lodowki",
+    "zdjecie": "images/magazyn/fridge1.jpg"
+  },
+  {
+    "tytul": "Bosch WAN28262PL",
+    "status": "Ostatnie 2 szt.",
+    "cena": "1 899 zł",
+    "kategoria": "pralki",
+    "zdjecie": "images/magazyn/washer1.jpg"
+  },
+  {
+    "tytul": "Bosch SMS6ZCI00E",
+    "status": "Dostępny",
+    "cena": "2 499 zł",
+    "kategoria": "zmywarki",
+    "zdjecie": "images/magazyn/dishwasher1.jpg"
+  }
+]
